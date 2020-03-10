@@ -1,0 +1,4 @@
+Man lever et liv og man får forskjellige valg om hva man kan gjøre.
+
+1. Man kan lage en karakter
+2. Man får forskjellige spørsmål

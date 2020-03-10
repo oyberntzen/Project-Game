@@ -2,3 +2,9 @@ Man lever et liv og man får forskjellige valg om hva man kan gjøre.
 
 1. Man kan lage en karakter
 2. Man får forskjellige spørsmål
+
+choices.csv
+  Denne filen inneholder alle valgene man kan ta. Formatet i denne filen er "id;spørsmål;svar1;svar2;neste1;neste2
+  
+main.py
+  Dette er filen der koden ligger
